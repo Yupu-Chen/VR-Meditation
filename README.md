@@ -30,4 +30,4 @@ link to the Windows .exe files: [Build Files](https://drive.google.com/drive/fol
    
    2.4 Experimental Design (Assessment)
 
-link to the walkthrough video: [Walkthrough video](https://youtu.be/u-LGQbIrqH4)
+link to the walkthrough video: [Walkthrough video](https://youtu.be/Gn80iRycTCs)
