@@ -6,6 +6,8 @@ The collaboration of the project was based on the PlasticsSCM, which is native t
 
 link to the presentation: [Canva Presentation](https://www.canva.com/design/DAFwxz6ZJLc/40A8SXan_1xIzhvCKM5kUQ/edit?utm_content=DAFwxz6ZJLc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+link to the Windows .exe files: [Build Files](https://drive.google.com/drive/folders/1REkfZ8JpM9ZZMOo6T1szCVFZQx9e6nz2?usp=sharing)
+
 ## Table of Content of the Video
 
 1. Unity Walkthrough
