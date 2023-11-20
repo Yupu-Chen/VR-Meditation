@@ -2,6 +2,10 @@
 
 link to the Unity project: [Unity Project](https://drive.google.com/drive/folders/1toUKqGoLTezJ56D6chFIC29LJDuaT9IX?usp=sharing)
 
+The collaboration of the project was based on the PlasticsSCM, which is native to Unity, instead of GitHub.
+
+link to the presentation: [Canva Presentation](https://www.canva.com/design/DAFwxz6ZJLc/40A8SXan_1xIzhvCKM5kUQ/edit?utm_content=DAFwxz6ZJLc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Table of Content of the Video
 
 1. Unity Walkthrough
@@ -25,6 +29,3 @@ link to the Unity project: [Unity Project](https://drive.google.com/drive/folder
    2.4 Experimental Design (Assessment)
 
 link to the walkthrough video: [Walkthrough video](https://youtu.be/u-LGQbIrqH4)
-
-
-The collaboration of the project was based on the PlasticsSCM, which is native to Unity, instead of GitHub.
