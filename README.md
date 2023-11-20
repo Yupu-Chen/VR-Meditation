@@ -8,6 +8,8 @@ link to the presentation: [Canva Presentation](https://www.canva.com/design/DAFw
 
 link to the Windows .exe files: [Build Files](https://drive.google.com/drive/folders/1REkfZ8JpM9ZZMOo6T1szCVFZQx9e6nz2?usp=sharing)
 
+The water in the lake and boat scene might not work well when played on Oculus standalone. It works fine when cable linked to Unity or played on Windows as .exe
+
 ## Table of Content of the Video
 
 1. Unity Walkthrough
